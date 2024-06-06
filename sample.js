@@ -8,6 +8,7 @@ const sample = () => {
         <div className='flex'>
           <button>Good</button>
           <button>Bad</button>
+          <button>Worse</button>
         </div>
       </div>
     </div>
