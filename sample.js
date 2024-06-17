@@ -9,6 +9,7 @@ const sample = () => {
           <button>Good</button>
           <button>Bad</button>
           <button>Worse</button>
+          <button>Submit Response</button> 
         </div>
       </div>
     </div>
